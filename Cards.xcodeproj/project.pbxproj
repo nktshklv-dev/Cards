@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		113CB5FB2848075200C71C33 /* beizerpath.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = beizerpath.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		119623C028450D7800DEBC57 /* Cards.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cards.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		119623C328450D7800DEBC57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		119623C528450D7800DEBC57 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +25,7 @@
 		119623CC28450D7A00DEBC57 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		119623CF28450D7A00DEBC57 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		119623D128450D7A00DEBC57 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		119623D728450DE500DEBC57 /* testing.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = testing.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,8 @@
 				119623CC28450D7A00DEBC57 /* Assets.xcassets */,
 				119623CE28450D7A00DEBC57 /* LaunchScreen.storyboard */,
 				119623D128450D7A00DEBC57 /* Info.plist */,
+				119623D728450DE500DEBC57 /* testing.playground */,
+				113CB5FB2848075200C71C33 /* beizerpath.playground */,
 			);
 			path = Cards;
 			sourceTree = "<group>";
